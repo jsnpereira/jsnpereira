@@ -19,7 +19,6 @@ Currently improving my skills in Cypress and Playwright to expand my expertise i
 
 Additionally, I am studying Java and Spring Boot as part of my transition journey toward Backend Development.
 </em>
-
 </div>
 
 <hr>
@@ -32,9 +31,17 @@ Additionally, I am studying Java and Spring Boot as part of my transition journe
   <li>CI/CD</li>
   <li>Performance Testing</li>
 </ul>
+</div>
+<div align=center>
 <h4>Tech Stack</h4>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,docker,selenium,maven,postman,gherkin,cypress,git,aws,idea,github,jenkins,vscode&theme=light&perline=7" />
   </a>
-</p>
+</div>
+
+<div align=center>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=jsnpereira&show_icons=true&theme=tokyonight" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnpereira&layout=compact&theme=tokyonight" />
+</div>
