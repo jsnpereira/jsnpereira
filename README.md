@@ -41,7 +41,5 @@ Additionally, I am studying Java and Spring Boot as part of my transition journe
 
 <div align=center>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jsnpereira&show_icons=true&theme=tokyonight" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnpereira&layout=compact&theme=tokyonight" />
+<img src="github-metrics.svg" />
 </div>
