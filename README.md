@@ -11,7 +11,7 @@
 QA Engineer with 10+ years of experience in software testing and test automation for Web, API, Cloud, and Microservices platforms.
 Strong background in Java, Selenium, Rest Assured, TestNG, Cucumber, CI/CD pipelines, and automation framework architecture.
 Experience with mobile testing, performance testing using JMeter, and modern automation tools such as Cypress and Playwright.
-Currently expanding my Backend Development skills with Java and Spring Boot.
+Currently expanding my Backend Development skills with Java and Spring Boot, and pursuing a postgraduate degree in Data Science & Artificial Intelligence.
 </em>
 </div>
 <hr>
@@ -30,6 +30,7 @@ Currently expanding my Backend Development skills with Java and Spring Boot.
   <li>Backend Development with Java & Spring Boot</li>
   <li>Database Integration with MySQL</li>
   <li>Authentication & Authorization with Keycloak</li>
+  <li>Postgraduate studies in Data Science & Artificial Intelligence</li>
 </ul>
 
 </div>
